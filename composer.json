@@ -15,5 +15,12 @@
         "psr-4": {
             "jamessingizi\\contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "JamesSingizi\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
