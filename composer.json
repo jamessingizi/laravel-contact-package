@@ -1,0 +1,19 @@
+{
+    "name": "jamessingizi/contact",
+    "description": "contact form for sending email to admin and saving contact form details in database",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Singizi",
+            "email": "jsingizi7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "jamessingizi\\contact\\": "src/"
+        }
+    }
+}
