@@ -34,7 +34,7 @@ To publish configs, run
 php artisan vendor:publish
 ```
 
-The above command will publish a config file named contact.php in the config file of your project. Change the 'send_email_to' value to the email you want to send emails to. For sending emails you will need to define email settings in the .env file of your application
+The above command will publish a config file named contact.php in the config file of your project. Change the 'send_email_to' value to the email you want to send emails to. You can also publish the views in order to customize the look and feel of the contact page. For sending emails you will need to define email settings in the .env file of your application
 
 The package uses laravel queues and will automatically queue emails if a queue is defined.
 
