@@ -1,7 +1,6 @@
 # Laravel contact form package
 
 [![Issues](https://img.shields.io/github/issues/jamessingizi/laravel-contact-package?style=flat-square&logo=appveyor)](https://github.com/jamessingizi/laravel-contact-package/issues)
-
 [![Stars](https://img.shields.io/github/stars/jamessingizi/laravel-contact-package?style=flat-square&logo=appveyor)](https://github.com/jamessingizi/laravel-contact-package/stargazers)
 
 Contact is a simple and extensible contact form package for laravel projects.
